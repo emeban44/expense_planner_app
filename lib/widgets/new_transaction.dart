@@ -42,6 +42,7 @@ class _NewTransactionState extends State<NewTransaction> {
               decoration: InputDecoration(labelText: 'Title'),
               controller: titleController,
               onSubmitted: (_) => submitData(),
+              style: TextStyle(fontFamily: 'Quicksand'),
               //      onChanged: (val) {
               //        titleInput = val;
               //      },
@@ -51,10 +52,17 @@ class _NewTransactionState extends State<NewTransaction> {
               controller: amountController,
               keyboardType: TextInputType.number,
               onSubmitted: (_) => submitData(),
+              style: TextStyle(fontFamily: 'Quicksand'),
               //       onChanged: (val) => amountInput = val,
             ),
             FlatButton(
-              child: Text('Add Transaction'),
+              child: Text(
+                'Add Transaction',
+                style: TextStyle(
+                  fontFamily: 'Quicksand',
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
               textColor: Colors.purple,
               onPressed: submitData,
             )
