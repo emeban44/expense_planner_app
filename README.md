@@ -1,4 +1,4 @@
-# **App title:** Personal Expenses Tracker App
+# Personal Expenses Tracker App
 
 **App description:**
 
