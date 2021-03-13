@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #App title: PERSONAL EXPENSES PLANNER
+=======
+#App title: PERSONAL EXPENSES PLANNER
+>>>>>>> 72057249852f4ab02aa333e1ed27c5670b68bec8
 
 App description: 
 App is used to track your most recent expenses of any kind. User is able to add new expense with a simple button and modal-form combination. On the top of the app there is a chart that dynamically updates expenses sorted by the most recent days (last 7 days to be exact).
