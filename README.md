@@ -1,16 +1,11 @@
-# expense_planner_app
+App title: PERSONAL EXPENSES PLANNER
 
-A new Flutter project.
+App description: 
+App is used to track your most recent expenses of any kind. User is able to add new expense with a simple button and modal-form combination. On the top of the app there is a chart that dynamically updates expenses sorted by the most recent days (last 7 days to be exact).
 
-## Getting Started
+Project made solely by: Emerald Podbićanin
 
-This project is a starting point for a Flutter application.
+Developed with: Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: App home page can be seen in the image in the root of this repository
