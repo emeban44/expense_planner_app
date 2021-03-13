@@ -1,4 +1,6 @@
-**App title:** PERSONAL EXPENSES PLANNER
+**App title:** 
+
+**PERSONAL EXPENSES PLANNER*
 
 **App description:**
 
@@ -10,3 +12,5 @@ App is used to track your most recent expenses of any kind. User is able to add 
 
 
 **Note:** App home page can be seen in the image in the root of this repository
+
+![Screenshot](appScreenshot.png)
