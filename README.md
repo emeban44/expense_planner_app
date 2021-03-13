@@ -1,6 +1,6 @@
 **App title:** 
 
-**PERSONAL EXPENSES PLANNER*
+Personal Expenses Tracker App
 
 **App description:**
 
