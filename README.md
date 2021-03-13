@@ -11,6 +11,6 @@ App is used to track your most recent expenses of any kind. User is able to add 
 **Developed with:** Flutter
 
 
-**Note:** App home page can be seen in the image in the root of this repository
+**App home page screenshot:**
 
 ![Screenshot](appScreenshot.png)
